@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:30:33.648Z",
+  "generatedAt": "2026-08-12T20:44:37.956Z",
   "activeProjectId": "backyard-pergola-build",
   "projectCount": 2,
   "projects": [
@@ -16,11 +16,11 @@
       "title": "Pondside Pergola Build",
       "description": "Implementation study for the selected pergola at its confirmed pondside location, including grading, hardscape, drainage, planting, lighting, and finished-site visualization.",
       "status": "active",
-      "proposalCount": 31,
+      "proposalCount": 32,
       "outputs": "outputs/backyard-pergola-build/proposals"
     }
   ],
-  "proposalCount": 56,
+  "proposalCount": 57,
   "proposals": [
     {
       "id": "301-cedar-shed-roof-garden-room",
@@ -3730,6 +3730,156 @@
         "webPath": "/projects/backyard-gazebo/proposals/324-far-corner-tea-house/photo-render-a.jpg"
       },
       "plantCount": 10
+    },
+    {
+      "id": "432-castohn-cascade-pacific-mist",
+      "projectId": "backyard-pergola-build",
+      "slug": "432-castohn-cascade-pacific-mist",
+      "title": "CASToHN Cascade Flagstone — Pacific Mist",
+      "designIntent": "A quote-backed finalist: cool slate-textured wet-cast flagstone that bridges the irregular pond edge and the warm cedar pergola without looking rustic or busy.",
+      "estimatedTotalUsd": {
+        "low": 1704.7,
+        "high": 1704.7
+      },
+      "estimateLabel": "$1,704.70 quoted",
+      "footprintEstimates": {
+        "compact": {
+          "id": "compact",
+          "label": "Small 7 x 9",
+          "finished_sqft": 63,
+          "purchased_sqft": 63,
+          "material_usd": {
+            "low": 946.26,
+            "high": 946.26
+          },
+          "diy_complete_usd": {
+            "low": 1704.7,
+            "high": 1704.7
+          },
+          "professional_installed_usd": {
+            "low": 2600,
+            "high": 4500
+          }
+        },
+        "wraparound": {
+          "id": "wraparound",
+          "label": "Large 12 x 14",
+          "finished_sqft": 168,
+          "purchased_sqft": 175,
+          "material_usd": {
+            "low": 2628.5,
+            "high": 2628.5
+          },
+          "diy_complete_usd": {
+            "low": 3993,
+            "high": 4385
+          },
+          "professional_installed_usd": {
+            "low": 5500,
+            "high": 9000
+          }
+        }
+      },
+      "curatorRank": 0,
+      "curatorTake": "Best quote-backed finalist: the 7 x 9 footprint matches the confirmed clear area and preserves the pond garden.",
+      "selectedPlants": [],
+      "features": [
+        {
+          "name": "CASToHN Cascade Flagstone — Pacific Mist",
+          "quantity": 63,
+          "unit_estimate_usd": 15.02,
+          "role": "Nine quoted layers for the exact 7 x 9 inside-post footprint"
+        },
+        {
+          "name": "Pavingstone Supply delivery",
+          "quantity": 1,
+          "unit_estimate_usd": 214.5,
+          "role": "Quoted delivery to ZIP 98043"
+        },
+        {
+          "name": "Quoted base, bedding, joint and edge supplies",
+          "quantity": 1,
+          "unit_estimate_usd": 312.79,
+          "role": "5/8-minus rock, builder sand, polymeric sand, edging and spikes"
+        }
+      ],
+      "layoutNotes": [
+        "Small render is the measured 7 x 9 ft clear rectangle inside the four posts; post bases remain outside the stone.",
+        "Large render is an approximately 12 x 14 ft wraparound study with every post base inside the patio.",
+        "Both schemes preserve a bark buffer between patio and pond and keep the pond fully outside the construction area.",
+        "Field-verify finished elevations and the exact post-to-post clearance before ordering or excavating."
+      ],
+      "pros": [
+        "The 63-sq-ft small option matches the written store quote exactly",
+        "Slate texture and irregular polygon shapes echo the pond without natural-stone thickness variation",
+        "Uniform 1-3/4-inch wet-cast units and self-spacing joints simplify installation"
+      ],
+      "cons": [
+        "The quote is color-specific even though CASToHN's current public Cascade page lists Silver Legacy and made-to-order Western Buff; verify the Pacific Mist pallet tag before payment",
+        "The exact small layout may require edge cuts around the 7 x 9 rectangle",
+        "The large price is extrapolated from the quoted per-square-foot rate and needs a revised supplier quote"
+      ],
+      "maintenance": [
+        "Sweep organic debris before it stains the textured surface",
+        "Inspect polymeric joints and edge restraint annually",
+        "Use only cleaners and sealers approved for wet-cast concrete"
+      ],
+      "sourcingNotes": [
+        "Pavingstone Supply quote 6323 dated August 12, 2026",
+        "https://pavingstonesupply.com/",
+        "https://www.castohn.com/products-west/cascade-flagstone",
+        "Small quoted total: $1,704.70 including tax, delivery and listed supplies; $37 pallet deposit may be refundable subject to store terms"
+      ],
+      "reportMarkdown": "# CASToHN Cascade Flagstone — Pacific Mist\n\n## The pitch\n\nThis is the strongest real-world finalist because the small option is no longer hypothetical: Pavingstone Supply quoted the exact **7 x 9 ft / 63 sq ft** inside-post patio as nine layers of CASToHN Cascade Flagstone in Pacific Mist.\n\nThe product is manufactured wet-cast concrete flagstone—not quarried random flagstone. CASToHN describes Cascade as a slate-textured system with 16 natural textures, self-spacing joints and uniform 1-3/4-inch thickness. That gives the pond-compatible irregular shape with a much more predictable installation surface.\n\n## Store quote — small 7 x 9\n\n| Quoted item | Cost |\n|---|---:|\n| 63 sq ft Cascade Flagstone — Pacific Mist @ $15.02/sf | $946.26 |\n| Pallet deposit | $37.00 |\n| Partial-pallet breaking fee | $35.00 |\n| Delivery to ZIP 98043 | $214.50 |\n| 3/4 yd 5/8-minus crushed rock | $68.53 |\n| Gravel-bin loading fee | $27.50 |\n| 10 bags builder sand | $82.50 |\n| Polymeric HP NextGel sand | $58.41 |\n| 5 pieces SimFlex edging | $56.10 |\n| 25 steel spikes | $19.75 |\n| **Subtotal** | **$1,545.55** |\n| Tax | $159.15 |\n| **Quoted total** | **$1,704.70** |\n\nThe quote is dated August 12, 2026 and states a 30-day validity period. The $37 pallet charge is listed as a deposit; confirm return conditions before treating it as a permanent cost.\n\n## Large wraparound planning estimate\n\nUsing the same quoted **$15.02/sf** surface rate, a roughly **12 x 14 ft / 168 sq ft** layout requires about **175 sq ft / 25 product pairs** after rounding to the manufacturer's 7-sq-ft sales unit. Surface material is therefore approximately **$2,628.50**. Scaling the base and installation supplies while retaining delivery, fees and tax produces a **DIY planning band of roughly $3,993–$4,385**. Ask Pavingstone Supply for a revised written quote before using that number as an order total.\n\n## My take\n\nI prefer the **7 x 9** here. The stone has enough texture to connect with the pond, while the tight rectangle preserves the bark garden and makes the pergola read as a distinct room. The large version is impressive, but it turns more of the yard into hardscape and more than doubles the surface-material purchase.\n\n## Verify before purchase\n\n- Confirm the product pallet or sales tag says **Cascade Flagstone — Pacific Mist**. CASToHN's current public Cascade page lists Silver Legacy and made-to-order Western Buff, while your dealer quote explicitly specifies Pacific Mist.\n- Confirm whether nine quoted layers equal the exact 63-sq-ft sales quantity and whether any perimeter cuts create additional waste.\n- Field-check the true clear dimensions between post bases and final grades.\n- Confirm drainage falls away from the house and pond and remains below the cedar post bases.\n\nThe visualizations are reference-faithful planning renders; actual wet/dry color and piece distribution must be judged from the pallet at Pavingstone Supply.\n",
+      "researchMarkdown": "# Research notes — CASToHN Cascade Flagstone Pacific Mist\n\n- **Local written quote:** Pavingstone Supply quote 6323, August 12, 2026; 63 sq ft at $15.02/sf plus delivery, base, sand, edging, tax and fees.\n- **Manufacturer:** [CASToHN Cascade Flagstone](https://www.castohn.com/products-west/cascade-flagstone)\n- **Supplier:** [Pavingstone Supply](https://pavingstonesupply.com/)\n- **Published manufacturer attributes:** wet-cast concrete, 16 natural slate textures, self-spacing joints, uniform 1-3/4-inch thickness.\n- **Manufacturer information sheet:** 7 sq ft per pair, two pairs per layer, 112 sq ft per pallet, 3/8-inch integral-lug joints.\n- **Color caveat:** The live manufacturer page currently lists Silver Legacy and made-to-order Western Buff, whereas the dealer quote says Pacific Mist. The dealer's physical stock and pallet tag should govern.\n\nPrices and stock can change. Confirm the exact product, color, sales unit, pallet/deposit terms and delivery date before payment.\n",
+      "assets": [
+        {
+          "id": "site-finish-render",
+          "type": "photo-render",
+          "status": "accepted",
+          "brief": "Reference-faithful companion edit using the exact same CASToHN Cascade Flagstone Pacific Mist treatment in an approximately 12 x 14 ft wraparound patio, with all four post bases inside the stone and a bark buffer to the pond.",
+          "acceptanceCriteria": [
+            "pergola, pond, pond stones, fence, house, beds, crop and camera remain recognizable",
+            "wet-cast irregular polygon pattern and cool Pacific Mist slate texture are legible",
+            "all four post bases sit within the large wraparound patio",
+            "bark buffer remains between patio and every pond stone",
+            "no furniture, people, labels or new structures"
+          ],
+          "fileName": "site-finish-render.jpg",
+          "webPath": "/projects/backyard-pergola-build/proposals/432-castohn-cascade-pacific-mist/site-finish-render.jpg"
+        },
+        {
+          "id": "compact-7x9-render",
+          "type": "photo-render",
+          "status": "accepted",
+          "brief": "Reference-faithful edit of the current pondside pergola photograph. Install CASToHN Cascade Flagstone in Pacific Mist only within the exact 7 x 9 ft clear rectangle inside all four posts. Keep every black post base outside the stone and preserve bark to the pond.",
+          "acceptanceCriteria": [
+            "finished stone reads as the 7 x 9 ft clear inside-post rectangle",
+            "all four black post bases remain outside the stone perimeter",
+            "Pacific Mist material, slate texture and self-spacing joints remain legible",
+            "broad bark band remains between patio and pond",
+            "no furniture, people, labels or new structures"
+          ],
+          "fileName": "compact-7x9-render.jpg",
+          "webPath": "/projects/backyard-pergola-build/proposals/432-castohn-cascade-pacific-mist/compact-7x9-render.jpg"
+        }
+      ],
+      "heroAsset": {
+        "id": "site-finish-render",
+        "type": "photo-render",
+        "status": "accepted",
+        "brief": "Reference-faithful companion edit using the exact same CASToHN Cascade Flagstone Pacific Mist treatment in an approximately 12 x 14 ft wraparound patio, with all four post bases inside the stone and a bark buffer to the pond.",
+        "acceptanceCriteria": [
+          "pergola, pond, pond stones, fence, house, beds, crop and camera remain recognizable",
+          "wet-cast irregular polygon pattern and cool Pacific Mist slate texture are legible",
+          "all four post bases sit within the large wraparound patio",
+          "bark buffer remains between patio and every pond stone",
+          "no furniture, people, labels or new structures"
+        ],
+        "fileName": "site-finish-render.jpg",
+        "webPath": "/projects/backyard-pergola-build/proposals/432-castohn-cascade-pacific-mist/site-finish-render.jpg"
+      },
+      "plantCount": 0
     },
     {
       "id": "411-newstone-coastal-slate",
